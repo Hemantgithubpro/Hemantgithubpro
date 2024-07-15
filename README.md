@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemantgithubpro i.e. Hemant
-- Currently a Student. 
-- 👀 I’m interested in learning about various things and technologies.
+- Currently a CS Student. 
+- 👀 I’m interested in learning about various technologies.
 - 🌱 I’m currently learning C++ and Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach to me via my github profile @hemantgithubpro 

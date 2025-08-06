@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hemant</h1>
+<h1 align="center">Hi, I'm Hemant</h1>
 <h3 align="center">Software developer in training, open-source in spirit.</h3>
 
 <p align="left"> <a href="https://twitter.com/hemant4x" target="blank"><img src="https://img.shields.io/twitter/follow/hemant4x?logo=twitter&style=for-the-badge" alt="hemant4x" /></a> </p>

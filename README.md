@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/hemant4x" target="blank"><img src="https://img.shields.io/twitter/follow/hemant4x?logo=twitter&style=for-the-badge" alt="hemant4x" /></a> </p>
 
-- 🔭 I’m currently working on **An AI-powered full-stack personal productivity tracker**
+- 🔭 I’m currently working on **An E-commerce data-pipeline app**
 
-- 🌱 I’m currently learning **DevOps workflows**
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on **Open-source MERN projects, AI integrations for web apps**
+- 👯 I’m looking to collaborate on **Open-source Rails projects, AI integrations for web apps**
 
-- 🤝 I’m looking for help with **Contributing to scalable AI-based tools for developers**
+- 🤝 I’m looking for help with **Contributing to scalable tools for developers**
 
 - 👨‍💻 All of my projects are available at [github.com/hemantgithubpro](github.com/hemantgithubpro)
 
-- 💬 Ask me about **React, Node.js, C++, MySQL, hackathon strategies**
+- 💬 Ask me about **Ruby on Rails, React, Node.js, C++, PostgreSQL, hackathon strategies**
 
 - 📫 How to reach me **hemantjha2005@gmail.com**
 
